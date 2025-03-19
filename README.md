@@ -1,6 +1,6 @@
 
 <img src="./quiz.gif" width="350" height="600">
-# Quiz App - 10 Minutes School 
+# Quiz App - 10 Minutes School </br>
 [Project YouTube Video][Project Video Link]
 
      
