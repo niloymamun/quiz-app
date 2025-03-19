@@ -1,5 +1,5 @@
 
-<img src="./quiz" width="350" height="600">
+<img src="./quiz.gif" width="350" height="600">
 
 # Quiz App - 10 Minutes School 
 
