@@ -4,12 +4,14 @@
 # Quiz App - 10 Minutes School
 ### [Project Video Link](https://www.youtube.com/@codermamun) 
 
-     
+# Advanced Fundamentals     
+
 - Task List 
    ```
-      - [1] Task1
-      - [2] Task2
-      - [3] Task3
+      - [1] Building Up on the Core Basics
+      - [2] Explore & Use More Widgets
+      - [3] Render Conditional & List Content
+      - [4] Build More Complex User Interfaces
    ```
 
 ## Our Goal
@@ -19,7 +21,7 @@ In this tutorial we will be diving into more Dart programming concepts and learn
 
 ## What you will create
 
-We’re going to make a . 
+We’re going to make an Advanced Quiz App. 
 
 
 ## What you will learn
